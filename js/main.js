@@ -9,7 +9,7 @@ jQuery(document).ready(function(){
 
 
 	$(".text").typed({
-			strings: ["We Are <strong class='primary'>SPARKY.</strong>", "We Are <strong class='secondary'>Awesome Developers.</strong>"],
+			strings: ["We Are <strong class='primary'>ALPHA .</strong>", "We Are <strong class='secondary'>Awesome Developers.</strong>"],
 			typeSpeed: 0,
 			loop:true
 		});
